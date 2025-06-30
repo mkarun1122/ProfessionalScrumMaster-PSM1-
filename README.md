@@ -1,6 +1,7 @@
 # Professional Scrum Master-PSM1-
 
 Section 1: Introduction 
+
 Scrum Guide: https://www.scrumguides.org/
 
 Scrum Glossary: https://www.scrum.org/Resources/Scrum-Glossary
