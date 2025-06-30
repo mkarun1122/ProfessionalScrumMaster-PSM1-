@@ -1,6 +1,7 @@
 # Professional Scrum Master-PSM1-
 
 Section 1: Introduction 
+------------------------
 
 Scrum Guide: https://www.scrumguides.org/
 
@@ -15,6 +16,17 @@ Evidence-Based Management:  https://www.scrum.org/resources/evidence-based-manag
 The Nexus Guide: https://www.scrum.org/resources/nexus-guide
 
 
+
+
 Section 2: About PSM certification 
+----------------------------------
 
 Video links : https://www.scrum.org/resources?type=101
+
+
+Section 3: The Scrum Team
+--------------------------
+    Scrum Master Basics
+    
+
+
