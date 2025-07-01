@@ -27,6 +27,15 @@ Video links : https://www.scrum.org/resources?type=101
 Section 3: The Scrum Team
 --------------------------
     Scrum Master Basics
-    
+    - What are responsibilties as Scrum Master?
+    - what are the responsibilities of  Product Owner?
+    - Developer Responsibilities 
+     
+Section 4: Getting started Sprint1
+----------------------------------
+
+- Project Brief 
+- The Sprint details 
+
 
 
