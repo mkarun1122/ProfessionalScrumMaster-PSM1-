@@ -39,6 +39,7 @@ Section 4: Getting started Sprint1
 
 
 Section 5: Putting events into calendar 
+---------------------------------------
 
 1. Kick Off Meeting - meet & Greet , Intro to Bikex Club & Scrum
 2. Sprint Planning 
@@ -50,6 +51,7 @@ Section 5: Putting events into calendar
 
 
 Section 6: Continued sprint1
+----------------------------
 
     A closer look at sprints 
     Cancelling a sprint 
@@ -62,7 +64,8 @@ Section 6: Continued sprint1
     The Evidence-Based Management (EBM) four key value areas (KVA)
 
 
-Section 7: The Scrum Artifacts 
+Section 7: The Scrum Artifacts
+------------------------------ 
 
     1. Artifact Information 
     2. Product BackLog - Artifact
