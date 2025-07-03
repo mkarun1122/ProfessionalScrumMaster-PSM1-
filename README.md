@@ -52,6 +52,15 @@ Section 5: Putting events into calendar
 Section 6: Continued sprint1
 
     A closer look at sprints 
+    Cancelling a sprint 
+    The 5 Scrum Values
+    The three pillars of Empiricism
+    The suggested Product Backlog attributes
+        Description
+        Order
+        Size
+    The Evidence-Based Management (EBM) four key value areas (KVA)
+
 
 Section 7: The Scrum Artifacts 
 
