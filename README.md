@@ -38,4 +38,26 @@ Section 4: Getting started Sprint1
 - The Sprint details 
 
 
+Section 5: Putting events into calendar 
+
+1. Kick Off Meeting - meet & Greet , Intro to Bikex Club & Scrum
+2. Sprint Planning 
+3. Sprint Daily Scrum 
+4. Sprint Review 
+5. Sprint Refinement 
+10. Sprint Retrospective 
+
+
+
+Section 6: Continued sprint1
+
+    A closer look at sprints 
+
+Section 7: The Scrum Artifacts 
+
+    1. Artifact Information 
+    2. Product BackLog - Artifact
+    3. BackLog Refinement 
+     
+
 
